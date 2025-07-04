@@ -70,11 +70,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-#Netflix-gpt
+To install tailwindcss with Create-react-app command-    npm install -D tailwindcss@3
+								npx tailwindcss init
+
+
+Create react app
+configure tailwindcss
+Create Github repository
+Install Git local 
+Provide username and email for identity confirmation on git
+
+For Specific Repositoty
+git config user.name "Your Name"
+git config user.email "you@example.com"
+
+For all Repository
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+
+
+
+# Netflix-gpt
 Create-react-app<project name>
 Configured tailwind
 
-#Features
+# Features
 -Login/SignUp
     -Sign in/Sign Up form
     -redirect to browse page
@@ -88,3 +108,4 @@ Configured tailwind
 -NetflixGPT
     -Search Bar
     -Movie Suggestions
+
